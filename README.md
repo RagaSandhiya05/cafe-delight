@@ -1,8 +1,10 @@
 A modern coffee shop website with interactive features built using HTML, CSS, and JavaScript.
 
+
 📌 Overview
 
 Cafe Delight is a simple and elegant coffee shop website designed to showcase different coffee varieties, menu sections, and a contact form. The project focuses on clean UI design and basic JavaScript interactivity.
+
 
 🚀 Features
 
@@ -16,6 +18,7 @@ Cafe Delight is a simple and elegant coffee shop website designed to showcase di
 
 • Smooth user interface
 
+
 🛠️ Technologies Used
 
 • HTML
@@ -24,11 +27,13 @@ Cafe Delight is a simple and elegant coffee shop website designed to showcase di
 
 • JavaScript
 
+
 ▶️ How to Run
 
-1. Download or clone the repository
+Download or clone the repository
 
-2. Open index.html in your browser
+Open index.html in your browser
+
 
 ✨ Future Improvements
 
